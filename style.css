@@ -1,4 +1,6 @@
-.parent{display: flex;}
+.parent{display: flex;
+justify-content: center;
+padding: 16px;}
 
 .child2,
 .child1{background-color: purple;
@@ -6,8 +8,7 @@ color: white;
 height: auto;
 width:  250px;
 padding: 10px;
-margin: 5px;
-flex: 1;}
+margin: 10px;}
 
 .child2{background-color: orangered;}
 
