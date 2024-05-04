@@ -1,0 +1,17 @@
+.parent{display: flex;}
+
+.child2,
+.child1{background-color: purple;
+color: white;
+height: auto;
+width:  250px;
+padding: 10px;
+margin: 5px;
+flex: 1;}
+
+.child2{background-color: orangered;}
+
+body {text-align: center;}
+
+ol,
+ul{text-align: left;}
