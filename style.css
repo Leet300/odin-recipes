@@ -1,5 +1,5 @@
 .parent{display: flex;
-justify-content: center;
+justify-content: space-evenly;
 padding: 16px;}
 
 .child2,
